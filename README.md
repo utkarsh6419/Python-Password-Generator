@@ -1,2 +1,5 @@
-# Python-Password-Generator
-A secure random password generator in Python.
+# Password Generator
+
+Create a random password from letters, digits, and punctuation.
+
+Run with `python main.py`.
